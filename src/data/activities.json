@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "uid": "U2408001",
+    "title": "National Level Hackathon",
+    "category": "Technical",
+    "date": "2026-08-15",
+    "description": "Participated in a national level coding hackathon.",
+    "pointsClaimed": 20,
+    "pointsApproved": 20,
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "uid": "U2408001",
+    "title": "Python Workshop",
+    "category": "Technical",
+    "date": "2026-07-28",
+    "description": "Completed a hands-on Python programming workshop.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "uid": "U2408001",
+    "title": "Inter College Football Tournament",
+    "category": "Sports",
+    "date": "2026-07-10",
+    "description": "Represented the college in an inter-college football tournament.",
+    "pointsClaimed": 15,
+    "pointsApproved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "uid": "U2408001",
+    "title": "NSS Community Service",
+    "category": "Social Service",
+    "date": "2026-06-20",
+    "description": "Participated in a community cleanliness and awareness program.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 5,
+    "uid": "U2408001",
+    "title": "Technical Seminar",
+    "category": "Professional",
+    "date": "2026-05-18",
+    "description": "Attended a seminar on emerging technologies and career opportunities.",
+    "pointsClaimed": 10,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": 6,
+    "uid": "U2408001",
+    "title": "College Cultural Fest",
+    "category": "Cultural",
+    "date": "2026-04-25",
+    "description": "Participated in the annual college cultural festival.",
+    "pointsClaimed": 10,
+    "pointsApproved": 0,
+    "status": "Pending"
+  }
+]
